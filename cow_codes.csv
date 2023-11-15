@@ -1,0 +1,219 @@
+﻿StateAbb,CCode,StateNme,Block
+USA,2,United States of America,Sauron
+USA,2,United States of America,Sauron
+CAN,20,Canada,Sring
+BHM,31,Bahamas,Other
+CUB,40,Cuba,RUS
+HAI,41,Haiti,Other
+DOM,42,Dominican Republic,Other
+JAM,51,Jamaica,Other
+TRI,52,Trinidad and Tobago,Other
+BAR,53,Barbados,Other
+DMA,54,Dominica,Other
+GRN,55,Grenada,Other
+SLU,56,St. Lucia,Other
+SVG,57,St. Vincent and the Grenadines,Other
+AAB,58,Antigua & Barbuda,Other
+SKN,60,St. Kitts and Nevis,Other
+MEX,70,Mexico,Other
+BLZ,80,Belize,Other
+GUA,90,Guatemala,Other
+HON,91,Honduras,Other
+SAL,92,El Salvador,Other
+NIC,93,Nicaragua,Other
+COS,94,Costa Rica,Other
+PAN,95,Panama,Other
+COL,100,Colombia,Other
+VEN,101,Venezuela,Other
+GUY,110,Guyana,Other
+SUR,115,Suriname,Other
+ECU,130,Ecuador,Other
+PER,135,Peru,Other
+BRA,140,Brazil,Other
+BOL,145,Bolivia,Other
+PAR,150,Paraguay,Other
+CHL,155,Chile,Other
+ARG,160,Argentina,Other
+URU,165,Uruguay,Other
+UKG,200,United Kingdom,Sring
+IRE,205,Ireland,Sring
+NTH,210,Netherlands,Sring
+BEL,211,Belgium,Sring
+LUX,212,Luxembourg,Sring
+FRN,220,France,Sring
+MNC,221,Monaco,Sring
+LIE,223,Liechtenstein,Sring
+SWZ,225,Switzerland,Sring
+SPN,230,Spain,Sring
+AND,232,Andorra,Sring
+POR,235,Portugal,Sring
+HAN,240,Hanover,Sring
+BAV,245,Bavaria,Sring
+GMY,255,Germany,Sring
+GFR,260,German Federal Republic,Sring
+GDR,265,German Democratic Republic,RUS
+BAD,267,Baden,Sring
+SAX,269,Saxony,Sring
+WRT,271,Wuerttemburg,Sring
+HSE,273,Hesse Electoral,Sring
+HSG,275,Hesse Grand Ducal,Sring
+MEC,280,Mecklenburg Schwerin,Sring
+POL,290,Poland,Sring
+AUH,300,Austria-Hungary,Sring
+AUS,305,Austria,Sring
+HUN,310,Hungary,Sring
+CZE,315,Czechoslovakia,Sring
+CZR,316,Czech Republic,Sring
+SLO,317,Slovakia,Sring
+ITA,325,Italy,Sring
+PAP,327,Papal States,Sring
+SIC,329,Two Sicilies,Sring
+SNM,331,San Marino,Sring
+MOD,332,Modena,Sring
+PMA,335,Parma,Sring
+TUS,337,Tuscany,Sring
+MLT,338,Malta,Sring
+ALB,339,Albania,Sring
+MNG,341,Montenegro,Sring
+MAC,343,Macedonia,Sring
+CRO,344,Croatia,Sring
+YUG,345,Yugoslavia,RUS
+BOS,346,Bosnia and Herzegovina,Sring
+KOS,347,Kosovo,Sring
+SLV,349,Slovenia,Sring
+GRC,350,Greece,Sring
+CYP,352,Cyprus,Sring
+BUL,355,Bulgaria,Sring
+MLD,359,Moldova,Sring
+ROM,360,Romania,Sring
+RUS,365,Russia,RUS
+EST,366,Estonia,Sring
+LAT,367,Latvia,Sring
+LIT,368,Lithuania,Sring
+UKR,369,Ukraine,Sring
+BLR,370,Belarus,RUS
+ARM,371,Armenia,Other
+GRG,372,Georgia,Other
+AZE,373,Azerbaijan,Tur
+FIN,375,Finland,Sring
+SWD,380,Sweden,Sring
+NOR,385,Norway,Sring
+DEN,390,Denmark,Sring
+ICE,395,Iceland,Sring
+CAP,402,Cape Verde,Other
+STP,403,Sao Tome and Principe,Other
+GNB,404,Guinea-Bissau,Other
+EQG,411,Equatorial Guinea,Other
+GAM,420,Gambia,Other
+MLI,432,Mali,Other
+SEN,433,Senegal,Other
+BEN,434,Benin,Other
+MAA,435,Mauritania,Other
+NIR,436,Niger,Other
+CDI,437,Ivory Coast,Other
+GUI,438,Guinea,Other
+BFO,439,Burkina Faso,Other
+LBR,450,Liberia,Other
+SIE,451,Sierra Leone,Other
+GHA,452,Ghana,Other
+TOG,461,Togo,Other
+CAO,471,Cameroon,Other
+NIG,475,Nigeria,Other
+GAB,481,Gabon,Other
+CEN,482,Central African Republic,Other
+CHA,483,Chad,Other
+CON,484,Congo,Other
+DRC,490,Democratic Republic of the Congo,Other
+UGA,500,Uganda,Other
+KEN,501,Kenya,Other
+TAZ,510,Tanzania,Other
+ZAN,511,Zanzibar,Other
+BUI,516,Burundi,Other
+RWA,517,Rwanda,Other
+SOM,520,Somalia,Other
+DJI,522,Djibouti,Other
+ETH,530,Ethiopia,Other
+ERI,531,Eritrea,Other
+ANG,540,Angola,Other
+MZM,541,Mozambique,Other
+ZAM,551,Zambia,Other
+ZIM,552,Zimbabwe,Other
+MAW,553,Malawi,Other
+SAF,560,South Africa,RUS
+NAM,565,Namibia,Other
+LES,570,Lesotho,Other
+BOT,571,Botswana,Other
+SWA,572,Swaziland,Other
+MAG,580,Madagascar,Other
+COM,581,Comoros,Other
+MAS,590,Mauritius,Other
+SEY,591,Seychelles,Other
+MOR,600,Morocco,Tur
+ALG,615,Algeria,Tur
+TUN,616,Tunisia,Tur
+LIB,620,Libya,Tur
+SUD,625,Sudan,Tur
+SSD,626,South Sudan,Tur
+IRN,630,Iran,Tur
+TUR,640,Turkey,Tur
+IRQ,645,Iraq,Tur
+EGY,651,Egypt,Tur
+SYR,652,Syria,Tur
+LEB,660,Lebanon,Tur
+JOR,663,Jordan,Tur
+ISR,666,Israel,Sring
+SAU,670,Saudi Arabia,Tur
+YAR,678,Yemen Arab Republic,Tur
+YEM,679,Yemen,Tur
+YPR,680,Yemen People's Republic,Tur
+KUW,690,Kuwait,Tur
+BAH,692,Bahrain,Tur
+QAT,694,Qatar,Tur
+UAE,696,United Arab Emirates,Tur
+OMA,698,Oman,Tur
+AFG,700,Afghanistan,Tur
+TKM,701,Turkmenistan,RUS
+TAJ,702,Tajikistan,RUS
+KYR,703,Kyrgyzstan,RUS
+UZB,704,Uzbekistan,RUS
+KZK,705,Kazakhstan,RUS
+CHN,710,China,RUS
+MON,712,Mongolia,RUS
+TAW,713,Taiwan,Sring
+KOR,730,Korea,Other
+PRK,731,North Korea,RUS
+ROK,732,South Korea,Sring
+JPN,740,Japan,Sring
+IND,750,India,RUS
+BHU,760,Bhutan,Other
+PAK,770,Pakistan,Tur
+BNG,771,Bangladesh,Tur
+MYA,775,Myanmar,Other
+SRI,780,Sri Lanka,Other
+MAD,781,Maldives,Other
+NEP,790,Nepal,Other
+THI,800,Thailand,Other
+CAM,811,Cambodia,Other
+LAO,812,Laos,Other
+DRV,816,Vietnam,Other
+RVN,817,Republic of Vietnam,Other
+MAL,820,Malaysia,Other
+SIN,830,Singapore,Other
+BRU,835,Brunei,Other
+PHI,840,Philippines,Sring
+INS,850,Indonesia,Sring
+ETM,860,East Timor,Other
+AUL,900,Australia,Sring
+PNG,910,Papua New Guinea,Other
+NEW,920,New Zealand,Sring
+VAN,935,Vanuatu,Other
+SOL,940,Solomon Islands,Other
+KIR,946,Kiribati,Other
+TUV,947,Tuvalu,Other
+FIJ,950,Fiji,Other
+TON,955,Tonga,Other
+NAU,970,Nauru,Other
+MSI,983,Marshall Islands,Other
+PAL,986,Palau,Other
+FSM,987,Federated States of Micronesia,Other
+WSM,990,Samoa,Other
